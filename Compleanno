@@ -1,0 +1,7 @@
+h1 {
+  color: rgb(0, 128, 0); /* green text */
+}
+
+a:hover {
+  color: #0000ff; /* blue text on hover */
+}
