@@ -5,3 +5,19 @@ h1 {
 a:hover {
   color: #0000ff; /* blue text on hover */
 }
+<a href="https://frasidibuoncompleanno.com/immagini-con-nomi/">Your Link Text</a>
+a {
+    color: #FF0000; /* Change this to the desired color using a valid color code */
+    text-decoration: none; /* Optional: Removes underline */
+}
+/* Using a class */
+.link-class {
+    color: #FF0000;
+    text-decoration: none;
+}
+
+/* Using an ID */
+#link-id {
+    color: #FF0000;
+    text-decoration: none;
+}
